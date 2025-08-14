@@ -19,19 +19,19 @@ The insights aim to guide post-merger content strategy, optimize user engagement
 # LIVE Dashboard
 https://shorturl.at/VvkxJ
 
-![image-name][https://github.com/Vallabesh/OTT-Merger-Analytics/blob/main/Slide1.JPG]
+![image-name](https://github.com/Vallabesh/OTT-Merger-Analytics/blob/main/Slide1.JPG)
 
-![image-name][https://github.com/Vallabesh/OTT-Merger-Analytics/blob/main/Slide2.JPG]
+![image-name](https://github.com/Vallabesh/OTT-Merger-Analytics/blob/main/Slide2.JPG)
 
-![image-name][https://github.com/Vallabesh/OTT-Merger-Analytics/blob/main/Slide3.JPG]
+![image-name](https://github.com/Vallabesh/OTT-Merger-Analytics/blob/main/Slide3.JPG)
 
-![image-name][https://github.com/Vallabesh/OTT-Merger-Analytics/blob/main/Slide4.JPG]
+![image-name](https://github.com/Vallabesh/OTT-Merger-Analytics/blob/main/Slide4.JPG)
 
-![image-name][https://github.com/Vallabesh/OTT-Merger-Analytics/blob/main/Slide5.JPG]
+![image-name](https://github.com/Vallabesh/OTT-Merger-Analytics/blob/main/Slide5.JPG)
 
-![image-name][https://github.com/Vallabesh/OTT-Merger-Analytics/blob/main/Slide6.JPG]
+![image-name](https://github.com/Vallabesh/OTT-Merger-Analytics/blob/main/Slide6.JPG)
 
-![image-name][https://github.com/Vallabesh/OTT-Merger-Analytics/blob/main/Slide7.JPG]
+![image-name](https://github.com/Vallabesh/OTT-Merger-Analytics/blob/main/Slide7.JPG)
 
 
 
